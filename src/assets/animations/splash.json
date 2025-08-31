@@ -1,0 +1,7 @@
+{
+    "backgroundColor": "#121212",
+    "image": "./assets/logo.jpeg",
+    "imageWidth": 200,
+    "fullScreen": true,
+    "statusBarHidden": false
+}
